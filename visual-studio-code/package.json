@@ -1,0 +1,38 @@
+{
+    "name": "orange-haze",
+    "displayName": "Orange Haze",
+    "version": "1.0.0",
+    "description": "Orange Haze is an dark theme for Visual Studio Code",
+    "author": "Giovani de Oliveira <giovanioliveira@outlook.com.br>",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xxgicoxx/orange-haze.git"
+    },
+    "bugs": {
+        "url": "https://github.com/xxgicoxx/orange-haze/issues"
+    },
+    "homepage": "https://github.com/xxgicoxx/orange-haze#readme",
+    "keywords": [
+        "vscode",
+        "dark",
+        "theme"
+    ],
+    "publisher": "xxgicoxx",
+    "icon": "src/static/icons/icon.png",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Orange Haze",
+                "uiTheme": "vs-dark",
+                "path": "./src/themes/orange-haze-color-theme.json"
+            }
+        ]
+    }
+}
