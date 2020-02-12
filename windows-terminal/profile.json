@@ -1,0 +1,56 @@
+{
+    "$schema": "https://aka.ms/terminal-profiles-schema",
+    "defaultProfile": "{9ed62add-2cb9-4be5-a444-72d56b888d7f}",
+    "profiles": [
+      {
+        "guid": "{61c54bbd-c2c6-5271-96e7-009a87ff44bf}",
+        "name": "Windows PowerShell",
+        "commandline": "powershell.exe",
+        "hidden": false
+      },
+      {
+        "guid": "{0caa0dad-35be-5f56-a8ff-afceeeaa6101}",
+        "name": "cmd",
+        "commandline": "cmd.exe",
+        "hidden": false
+      },
+      {
+        "guid": "{b453ae62-4e3d-5e58-b989-0a998ec441b8}",
+        "hidden": false,
+        "name": "Azure Cloud Shell",
+        "source": "Windows.Terminal.Azure"
+      },
+      {
+        "guid": "{9ed62add-2cb9-4be5-a444-72d56b888d7f}",
+        "colorScheme": "orange-haze",
+        "name": "Orange Haze CMD",
+        "useAcrylic": true,
+        "acrylicOpacity": 0.7
+      }
+    ],
+    "schemes": [
+      {
+        "name": "orange-haze",
+		    "icon": "ms-appdata:///roaming/pwsh-32.png",
+        "background": "#1a1b24",
+        "foreground": "#F39C3F",
+        "black": "#000000",
+        "blue": "#0088dd",
+        "cyan": "#069b7d",
+        "green": "#00aa47",
+        "purple": "#7813a3",
+        "red": "#bf1607",
+        "white": "#ffffff",
+        "yellow": "#fcf535",
+        "brightBlack": "#141313",
+        "brightBlue": "#61b4e8",
+        "brightCyan": "#0cd3ab",
+        "brightGreen": "#40d67e",
+        "brightPurple": "#b200ff",
+        "brightRed": "#f45c4e",
+        "brightWhite": "#ffffff",
+        "brightYellow": "#f2ef98"
+      }
+    ],
+    "keybindings": []
+}

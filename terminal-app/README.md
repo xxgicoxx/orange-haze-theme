@@ -1,5 +1,5 @@
 # Orange Haze for Terminal.app
-A dark theme for Terminal.app.
+Dark theme for Terminal.app.
 
 ![Orange Haze](https://i.imgur.com/th1MDRw.png)
 

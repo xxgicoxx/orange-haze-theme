@@ -2,7 +2,7 @@
     "name": "orange-haze",
     "displayName": "Orange Haze",
     "version": "1.0.0",
-    "description": "Orange Haze is an dark theme for Visual Studio Code",
+    "description": "Dark theme for Visual Studio Code",
     "author": "Giovani de Oliveira <giovanioliveira@outlook.com.br>",
     "license": "MIT",
     "repository": {
@@ -14,6 +14,7 @@
     },
     "homepage": "https://github.com/xxgicoxx/orange-haze#readme",
     "keywords": [
+        "orange-haze",
         "vscode",
         "dark",
         "theme"

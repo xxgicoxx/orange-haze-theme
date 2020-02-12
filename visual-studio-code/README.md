@@ -1,5 +1,5 @@
 # Orange Haze for Visual Studio Code
-A dark theme for Visual Studio Code.
+Dark theme for Visual Studio Code.
 
 ![Orange Haze](https://i.imgur.com/Yxp7JSx.png)
 
@@ -7,14 +7,14 @@ A dark theme for Visual Studio Code.
 * [Node.js](https://nodejs.org/en/) - Node.js
 
 ### Running
-The extension run locally, just package and use.
+The theme run locally, just package and use.
 
 ### Run
 ````
 # Install dependencies
 npm install
 
-# Run
+# Start
 F5 to run
 ````
 
