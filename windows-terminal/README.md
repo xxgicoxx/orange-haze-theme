@@ -27,7 +27,7 @@ On schemes section add:
 ````json
 {
     "name": "orange-haze",
-	"icon": "ms-appdata:///roaming/pwsh-32.png",
+    "icon": "ms-appdata:///roaming/pwsh-32.png",
     "background": "#1a1b24",
     "foreground": "#F39C3F",
     "black": "#000000",
