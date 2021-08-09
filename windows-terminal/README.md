@@ -3,17 +3,19 @@ Dark theme for Windows Terminal.
 
 ![Orange Haze](https://i.imgur.com/O4NO9z5.png)
 
-### Running
-The theme run locally, just import and use.
-
-### Run
-Change profile.json settings file for Windows Terminal, to downloaded profile.json or find the defaultProfile section and change value to:
-````json
-"defaultProfile": "{9ed62add-2cb9-4be5-a444-72d56b888d7f}"
+# Running
+### 1. Download
+````
+# Download
+Download 'profile.json' file
 ````
 
-On profiles section add:
+### 2. Run
 ````json
+// Change profile.json settings file for Windows Terminal, to downloaded profile.json or find the defaultProfile section and change value to:
+"defaultProfile": "{9ed62add-2cb9-4be5-a444-72d56b888d7f}"
+
+// On profiles section add:
 {
     "guid": "{9ed62add-2cb9-4be5-a444-72d56b888d7f}",
     "colorScheme": "orange-haze",
@@ -21,10 +23,8 @@ On profiles section add:
     "useAcrylic": true,
     "acrylicOpacity": 0.7
 }
-````
 
-On schemes section add:
-````json
+// On schemes section add:
 {
     "name": "orange-haze",
     "icon": "ms-appdata:///roaming/pwsh-32.png",
@@ -47,7 +47,11 @@ On schemes section add:
     "brightWhite": "#ffffff",
     "brightYellow": "#f2ef98"
 }
+
 ````
 
-### Authors
-* **Giovani de Oliveira** - [xxgicoxx](https://github.com/xxgicoxx)
+# Authors
+* [xxgicoxx](https://github.com/xxgicoxx)
+
+# Acknowledgments
+* [FlatIcon](https://www.flaticon.com/)

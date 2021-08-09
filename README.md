@@ -7,8 +7,15 @@
 # Orange Haze Theme
 Dark theme for Visual Studio Code, Terminal.app and Windows Terminal.
 
-### Install
+# Running
+### 1. Install
+````
+# Install Theme
 All instructions can be found on folders.
+````
 
-### Authors
-* **Giovani de Oliveira** - [xxgicoxx](https://github.com/xxgicoxx)
+# Authors
+* [xxgicoxx](https://github.com/xxgicoxx)
+
+# Acknowledgments
+* [FlatIcon](https://www.flaticon.com/)

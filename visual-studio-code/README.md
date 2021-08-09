@@ -3,13 +3,20 @@ Dark theme for Visual Studio Code.
 
 ![Orange Haze](https://i.imgur.com/Yxp7JSx.png)
 
-### Prerequisites
-* [Node.js](https://nodejs.org/en/) - Node.js
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=xxgicoxx.orange-haze">
+    <img alt="Marketplace" src="https://vsmarketplacebadge.apphb.com/version-short/xxgicoxx.orange-haze.svg?style=for-the-badge&label=Marketplace&color=FFC000"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=xxgicoxx.orange-haze">
+    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs-short/xxgicoxx.orange-haze.svg?style=for-the-badge&color=FFC000"></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=xxgicoxx.orange-haze">
+    <img alt="Rating" src="https://vsmarketplacebadge.apphb.com/rating-short/xxgicoxx.orange-haze.svg?style=for-the-badge&color=FFC000"></a>
+</p>
 
-### Running
-The theme run locally, just package and use.
+# Prerequisites
+* [Node.js](https://nodejs.org/en/)
 
-### Run
+# Running
+### 1. Run
 ````
 # Install dependencies
 npm install
@@ -18,7 +25,7 @@ npm install
 F5 to run
 ````
 
-### Build
+### 2. Build
 ````
 # Install vsce
 npm install -g vsce
@@ -30,11 +37,11 @@ vsce package
 orange-haze-[VERSION].vsix
 ````
 
-### Built With
+# Built With
 * [Node.js](https://nodejs.org/en/)
 
-### Authors
-* **Giovani de Oliveira** - [xxgicoxx](https://github.com/xxgicoxx)
+# Authors
+* [xxgicoxx](https://github.com/xxgicoxx)
 
-### Acknowledgments
-* [FlatIcon](https://www.flaticon.com/) - Icon
+# Acknowledgments
+* [FlatIcon](https://www.flaticon.com/)
