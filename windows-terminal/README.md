@@ -20,6 +20,7 @@ Download 'profile.json' file
     "guid": "{9ed62add-2cb9-4be5-a444-72d56b888d7f}",
     "colorScheme": "orange-haze",
     "name": "Orange Haze CMD",
+    "commandline": "powershell.exe",
     "useAcrylic": true,
     "acrylicOpacity": 0.7
 }

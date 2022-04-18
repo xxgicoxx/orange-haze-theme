@@ -16,16 +16,7 @@ Dark theme for Visual Studio Code.
 * [Node.js](https://nodejs.org/en/)
 
 # Running
-### 1. Run
-````
-# Install dependencies
-npm install
-
-# Start
-F5 to run
-````
-
-### 2. Build
+### 1. Build
 ````
 # Install vsce
 npm install -g vsce
@@ -35,6 +26,15 @@ vsce package
 
 # Get your version
 orange-haze-[VERSION].vsix
+````
+
+### 2. Run
+````
+# Install dependencies
+npm install
+
+# Start
+F5 to run
 ````
 
 # Built With
