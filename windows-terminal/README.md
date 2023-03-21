@@ -1,13 +1,15 @@
 # Orange Haze for Windows Terminal
 Dark theme for Windows Terminal.
 
-![Orange Haze](https://i.imgur.com/O4NO9z5.png)
+<p align="center">
+  <img src="assets/imgs/orange-haze.png">
+</p>
 
 # Running
 ### 1. Download
 ````
 # Download
-Download 'profile.json' file
+Download 'profile.json' file.
 ````
 
 ### 2. Run

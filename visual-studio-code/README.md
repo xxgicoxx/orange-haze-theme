@@ -1,15 +1,14 @@
 # Orange Haze for Visual Studio Code
 Dark theme for Visual Studio Code.
 
-![Orange Haze](https://i.imgur.com/Yxp7JSx.png)
+<p align="center">
+  <img src="assets/imgs/orange-haze.png">
+</p>
 
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=xxgicoxx.orange-haze">
-    <img alt="Marketplace" src="https://vsmarketplacebadge.apphb.com/version-short/xxgicoxx.orange-haze.svg?style=for-the-badge&label=Marketplace&color=FFC000"></a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=xxgicoxx.orange-haze">
-    <img alt="Installs" src="https://vsmarketplacebadge.apphb.com/installs-short/xxgicoxx.orange-haze.svg?style=for-the-badge&color=FFC000"></a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=xxgicoxx.orange-haze">
-    <img alt="Rating" src="https://vsmarketplacebadge.apphb.com/rating-short/xxgicoxx.orange-haze.svg?style=for-the-badge&color=FFC000"></a>
+    <img alt="Marketplace" src="https://img.shields.io/visual-studio-marketplace/d/xxgicoxx.orange-haze.svg">
+  </a>
 </p>
 
 # Prerequisites
@@ -34,7 +33,7 @@ orange-haze-[VERSION].vsix
 npm install
 
 # Start
-F5 to run
+F5 to run.
 ````
 
 # Built With

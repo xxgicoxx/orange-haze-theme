@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://i.imgur.com/q11gl6j.png">
+  <img src="assets/imgs/orange-haze.png">
 </p>
-
-#
 
 # Orange Haze Theme
 Dark theme for Visual Studio Code, Terminal.app and Windows Terminal.
